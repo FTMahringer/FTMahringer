@@ -39,13 +39,13 @@
 <a href="https://www.youtube.com/c/q1pwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q1pwx" height="30" width="40" /></a>
 </p>
 
-<details> 
+<details style="height:20px;"> 
   <summary> 
     <h4 align="left">Hosts:</h3> 
   </summary> 
   <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;"> 
 </details> 
-<details> 
+<details style="height:15px;"> 
   <summary> 
     <h4 align="left">Languages:</h3> 
   </summary> 
