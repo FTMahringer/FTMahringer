@@ -48,41 +48,41 @@
 </details>
 
 <details>
-  <summar>
+  <summary>
     <h4 align="left">Languages:</h3>
-  </summar>
+  </summary>
   <br>
   <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex,md" style="height:36px;">
 </details>
 
 <details>
-  <summar>
+  <summary>
     <h4 align="left">Frameworks, Libraries & Databases:</h3>
-  </summar>
+  </summary>
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" style="height:36px;" />
 </details>
 
 <details>
-  <summar>
+  <summary>
     <h4 align="left">Tools:</h3>
-  </summar>
+  </summary>
   <br>
   <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;" />
 </details>
 
 <details>
-  <summar>
+  <summary>
     <h4 align="left">Wanting to Learn:</h3>
-  </summar>
+  </summary>
   <br>
   <img src="https://skillicons.dev/icons?i=py,symfony,kubernetes,docker,postman,nodejs,ts" style="height:36px;" />
 </details>
 
 <details>
-  <summar>
+  <summary>
     <h4 align="left">No Programming Knowledge:</h3>
-  </summar>
+  </summary>
   <br>
   <img src="https://skillicons.dev/icons?i=ps,ai," style="height:36px;" />
 </details>
