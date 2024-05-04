@@ -25,40 +25,41 @@
 
 <details>
   <summary>
-    My Stuff
+    My Stuff:
   </summary>
   <br>
   
-| **Mobile Devices**              | **Desktop**                        |
-| ------------------------------  | ---------------------------------  |
-| - Acer Nitro 5 	          | - OS: Windows 11                   |
-| - Huawei P30 Pro 		  | - CPU: Intel i5-11400H             |  
-|	                          | - GPU: NVIDEA RTX 3050 (Laptop GPU)|
-|                                 | - RAM: 32GB DDR4                   |
-|                                 | - HDD: 1TB                         |
-|                                 | - SSD: 2TB                         |
+| **Devices**                     | **Nitro**                          | **Desktop**                        |
+| ------------------------------  | ---------------------------------  | ---------------------------------  |
+| - Laptop Acer Nitro 5           | - OS: Windows 11                   | - OS: Windows 10                   |
+|                                 | - SSD: 2TB                         | - SSD: 2TB                         |
+| - Desktop: Self build (Not Good)| - CPU: Intel i5-11400H             | - CPU: Intel i5-9400F              |
+| - Huawei P30 Pro	          | - GPU: NVIDEA RTX 3050 (Laptop GPU)| - GPU: NVIDEA GEFORCE GTX 1050 TI  |
+|                                 | - RAM: 32GB DDR4 2400MHZ           | - RAM: 64GB DDR4 3600MHZ           |
+|                                 | - HDD: 1TB                         | - HDD: 1TB + 500GB + 6TB           |
+|                                 | - SSD: 2TB                         | - SSD: 2TB                         |
 
   
 </details>
 
+<h4 align="left">Hosts:</h3>
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;">
 <h4 align="left">Languages:</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash,lua,regex,md" style="height:36px;">
+<img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex,md" style="height:36px;">
 <h4 align="left">Frameworks, Libraries & Databases:</h3>
-<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,vite,vue,vitest,nuxtjs,pinia,bootstrap,qt,spring,symfony,tailwind,prisma,mysql,postgres,supabase&perline=50" style="height:36px;" />  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" style="height:36px;" />
 <h4 align="left">Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,npm,pnpm,yarn,kubernetes,docker,figma,postman,sentry,vercel,githubactions,github,gitlab,maven,nginx" style="height:36px;" />
+<img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;" />
+<h4 align="left">Wanting to Learn:</h3>
+<img src="https://skillicons.dev/icons?i=py,symfony,kubernetes,docker,postman,nodejs,ts" style="height:36px;" />
+<h4 align="left">No Programming Knowledge:</h3>
+<img src="https://skillicons.dev/icons?i=ps,ai," style="height:36px;" />
 
 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/FTMahringer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FTMahringer" /></a><a href="https://ko-fi.com/ftmahringer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ftmahringer" /></a></p><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftmahringer&show_icons=true&locale=en&layout=compact" alt="ftmahringer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&locale=en" alt="ftmahringer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ftmahringer&" alt="ftmahringer" /></p>
 
 <details>
   <summary>Github Stats ⚡</summary>
