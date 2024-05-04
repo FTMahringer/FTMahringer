@@ -41,7 +41,7 @@
 
 <details> 
   <summary> 
-    <h4 align="left">Hosts:</h3> 
+    <h4 align="left">Systems:</h3> 
   </summary> 
   <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;"> 
 </details> 
@@ -63,18 +63,6 @@
   </summary> 
   <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;"> 
 </details> 
-<details> 
-  <summary> 
-    <h4 align="left">Wanting to Learn:</h3> 
-  </summary> 
-  <img src="https://skillicons.dev/icons?i=py,symfony,kubernetes,docker,postman,nodejs,ts" style="height:36px;"> 
-</details> 
-<details> 
-  <summary> 
-    <h4 align="left">No Programming Knowledge:</h3> 
-  #</summary> 
-  <img src="https://skillicons.dev/icons?i=ps,ai," style="height:36px;"> 
-</details>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/FTMahringer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FTMahringer" /></a><a href="https://ko-fi.com/ftmahringer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ftmahringer" /></a></p><br><br>
