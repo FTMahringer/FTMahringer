@@ -35,6 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ftmahringer&" alt="ftmahringer" /></p>
 
-<h4 align="left">Repository Stats:</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dino-Kupinic&layout=compact&hide=cmake,dockerfile&bg_color=0D1117&text_color=c9d1d9&langs_count=8&hide_border=true&card_width=500&exclude_repo=Communify-Presentation,school-projects-presentation,Dino-Kupinic)](https://github.com/anuraghazra/github-readme-stats)
