@@ -45,7 +45,6 @@
  </summary>
  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;">
 </details>
-
 <details>
   <summary>
     <h4 align="left">Languages:</h3>
