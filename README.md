@@ -64,7 +64,8 @@
   <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;"> 
 </details> 
 
-Tests
+<h1 align="center"></h1>
+<h3 align="center"></h3>
 
 <details>
   <summary>Github Stats ⚡</summary>
