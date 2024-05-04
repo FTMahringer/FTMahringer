@@ -40,44 +40,33 @@
 </p>
 
 <details>
- <summary>
-  <h4 align="left">Hosts:</h3>
- </summary>
- <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;">
-</details>
-<details>
-  <summary>
-    <h4 align="left">Languages:</h3>
-  </summary>
-  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex,md" style="height:36px;">
+  <summary><h4 align="left">Hosts:</h4></summary>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="24">
 </details>
 
 <details>
-  <summary>
-    <h4 align="left">Frameworks, Libraries & Databases:</h3>
-  </summary>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" style="height:36px;" />
+  <summary><h4 align="left">Languages:</h4></summary>
+  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex,md" height="24">
 </details>
 
 <details>
-  <summary>
-    <h4 align="left">Tools:</h3>
-  </summary>
-  <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;" />
+  <summary><h4 align="left">Frameworks, Libraries & Databases:</h4></summary>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="24">
 </details>
 
 <details>
-  <summary>
-    <h4 align="left">Wanting to Learn:</h3>
-  </summary>
-  <img src="https://skillicons.dev/icons?i=py,symfony,kubernetes,docker,postman,nodejs,ts" style="height:36px;" />
+  <summary><h4 align="left">Tools:</h4></summary>
+  <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" height="24">
 </details>
 
 <details>
-  <summary>
-    <h4 align="left">No Programming Knowledge:</h3>
-  </summary>
-  <img src="https://skillicons.dev/icons?i=ps,ai," style="height:36px;" />
+  <summary><h4 align="left">Wanting to Learn:</h4></summary>
+  <img src="https://skillicons.dev/icons?i=py,symfony,kubernetes,docker,postman,nodejs,ts" height="24">
+</details>
+
+<details>
+  <summary><h4 align="left">No Programming Knowledge:</h4></summary>
+  <img src="https://skillicons.dev/icons?i=ps,ai" height="24">
 </details>
 
 <h3 align="left">Support:</h3>
