@@ -42,8 +42,16 @@
   
 </details>
 
-<h4 align="left">Hosts:</h3>
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;">
+
+<details>
+ <summary>
+  <h4 align="left">Hosts:</h3>
+ </summary>
+ <br>
+ <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;">
+</details>
+
+
 <h4 align="left">Languages:</h3>
 <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex,md" style="height:36px;">
 <h4 align="left">Frameworks, Libraries & Databases:</h3>
@@ -55,15 +63,15 @@
 <h4 align="left">No Programming Knowledge:</h3>
 <img src="https://skillicons.dev/icons?i=ps,ai," style="height:36px;" />
 
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/FTMahringer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FTMahringer" /></a><a href="https://ko-fi.com/ftmahringer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ftmahringer" /></a></p><br><br>
+
+
 <details>
   <summary>Github Stats ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ftmahringer&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/FTMahringer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FTMahringer" /></a><a href="https://ko-fi.com/ftmahringer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ftmahringer" /></a></p><br><br>
-
-
-
