@@ -49,7 +49,7 @@
   <summary> 
     <h4 align="left">Languages:</h3> 
   </summary> 
-  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex,md" style="height:36px;" /> 
+  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" style="height:36px;" /> 
 </details> 
 <details> 
   <summary> 
