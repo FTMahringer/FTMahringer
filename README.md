@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 
 - 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=symfony,docker,nodejs,vue" style="height:36px;" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ftmahringer.github.io/](https://ftmahringer.github.io/)
+- 👨‍💻 All of my projects are available at [https://ftmahringer.github.io](https://ftmahringer.github.io/)
 
 - 📫 How to reach me **fynn.mahringer@outlook.com**
 
