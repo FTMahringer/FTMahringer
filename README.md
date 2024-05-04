@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engeneer in training.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ftmahringer&label=Profile%20views&color=red&style=for-the-badge" alt="ftmahringer" /> </p>
-<p align="center"> <a href="https://github.com/sponsors/FTMahringer"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/></a></p>
+<!--- <p align="center"> <a href="https://github.com/sponsors/FTMahringer"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/></a></p> --->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmahringer" alt="ftmahringer" /></a> </p>
 
