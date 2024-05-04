@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fynn Mahringer</h1>
 <h3 align="center">A Software Engeneer in training.</h3>
 
-![](https://komarev.com/ghpvc/?username=ftmahringer&color=red&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge&base=100)
+![](https://komarev.com/ghpvc/?username=ftmahringer&color=red&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge&base=280)
+
+<a href="https://www.github.com/Fmahring-prof" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Fmahring-prof?logo=github&style=for-the-badge&color=gray&labelColor=red" /></a>
+
 <!--- <p align="center"> <a href="https://github.com/sponsors/FTMahringer"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/></a></p> --->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmahringer" alt="ftmahringer" /></a> </p>
