@@ -13,8 +13,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 
 - 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=symfony,docker,nodejs,vue" style="height:36px;" /> </p>
 
-- 👨‍💻 All of my projects are available at <a href="http://ftmahringer.github.io/" target="_blank">ftmahringer.github.io</a>
-
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 - 👨‍💻 All of my projects are available at [ftmahringer.github.io]("ftmahringer.github.io")
 
