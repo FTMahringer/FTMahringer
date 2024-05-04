@@ -64,11 +64,7 @@
   <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;"> 
 </details> 
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/FTMahringer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FTMahringer" /></a></p>
-<p><a href="https://ko-fi.com/ftmahringer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ftmahringer" /></a></p>
-<br>
+Tests
 
 <details>
   <summary>Github Stats ⚡</summary>
@@ -76,3 +72,9 @@
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ftmahringer&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/FTMahringer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FTMahringer" /></a></p>
+<p><a href="https://ko-fi.com/ftmahringer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ftmahringer" /></a></p>
+<br>
+
