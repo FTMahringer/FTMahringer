@@ -39,22 +39,6 @@
 <a href="https://www.youtube.com/c/q1pwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q1pwx" height="30" width="40" /></a>
 </p>
 
-<style>
-  details {
-    padding: 0;
-    margin: 0;
-  }
-  details > summary {
-    padding: 0;
-    margin: 0;
-  }
-  details > img {
-    display: block;
-    margin: 0 auto;
-    padding: 0;
-  }
-</style>
-
 <details> 
   <summary> 
     <h4 align="left">Hosts:</h3> 
