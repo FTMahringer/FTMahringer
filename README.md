@@ -2,6 +2,7 @@
 <h3 align="center">A Software Engeneer in training.</h3>
 
 ![](https://komarev.com/ghpvc/?username=ftmahringer&color=red&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge&base=280)
+<!-- The base is from my other two accounts, which are now followed by this new one -->
 
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
