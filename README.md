@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fynn Mahringer</h1>
 <h3 align="center">A Software Engeneer in training.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ftmahringer&label=Profile%20views&color=0e75b6&style=flat" alt="ftmahringer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ftmahringer&label=Profile%20views&color=red&style=for-the-badge" alt="ftmahringer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmahringer" alt="ftmahringer" /></a> </p>
 
-- 🌱 I’m currently learning **vue, node, docker, symfony**
+- 🌱 I’m currently learning *vue, node, docker, symfony*
 
 - 👨‍💻 All of my projects are available at [https://ftmahringer.github.io/](https://ftmahringer.github.io/)
 
@@ -41,6 +41,14 @@
   
 </details>
 
+<h4 align="left">Languages:</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash,lua,regex,md" style="height:36px;">
+<h4 align="left">Frameworks, Libraries & Databases:</h3>
+<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,vite,vue,vitest,nuxtjs,pinia,bootstrap,qt,spring,symfony,tailwind,prisma,mysql,postgres,supabase&perline=50" style="height:36px;" />  
+<h4 align="left">Tools:</h3>
+<img src="https://skillicons.dev/icons?i=git,npm,pnpm,yarn,kubernetes,docker,figma,postman,sentry,vercel,githubactions,github,gitlab,maven,nginx" style="height:36px;" />
+
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/FTMahringer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FTMahringer" /></a><a href="https://ko-fi.com/ftmahringer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ftmahringer" /></a></p><br><br>
@@ -51,3 +59,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&locale=en" alt="ftmahringer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ftmahringer&" alt="ftmahringer" /></p>
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ftmahringer&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
