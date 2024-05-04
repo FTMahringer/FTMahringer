@@ -39,41 +39,41 @@
 <a href="https://www.youtube.com/c/q1pwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q1pwx" height="30" width="40" /></a>
 </p>
 
-<details style="height:20px;"> 
+<details> 
   <summary> 
     <h4 align="left">Hosts:</h3> 
   </summary> 
   <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;"> 
 </details> 
-<details style="height:15px;"> 
+<details> 
   <summary> 
     <h4 align="left">Languages:</h3> 
   </summary> 
-  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" style="height:36px;" /> 
+  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" style="height:36px;"> 
 </details> 
 <details> 
   <summary> 
     <h4 align="left">Frameworks, Libraries & Databases:</h3> 
   </summary> 
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" style="height:36px;" /> 
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" style="height:36px;"> 
 </details> 
 <details> 
   <summary> 
     <h4 align="left">Tools:</h3> 
   </summary> 
-  <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;" /> 
+  <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;"> 
 </details> 
 <details> 
   <summary> 
     <h4 align="left">Wanting to Learn:</h3> 
   </summary> 
-  <img src="https://skillicons.dev/icons?i=py,symfony,kubernetes,docker,postman,nodejs,ts" style="height:36px;" /> 
+  <img src="https://skillicons.dev/icons?i=py,symfony,kubernetes,docker,postman,nodejs,ts" style="height:36px;"> 
 </details> 
 <details> 
   <summary> 
     <h4 align="left">No Programming Knowledge:</h3> 
   #</summary> 
-  <img src="https://skillicons.dev/icons?i=ps,ai," style="height:36px;" /> 
+  <img src="https://skillicons.dev/icons?i=ps,ai," style="height:36px;"> 
 </details>
 
 <h3 align="left">Support:</h3>
