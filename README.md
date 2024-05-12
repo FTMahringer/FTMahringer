@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
   </summary>
   <br>
   
-| **Devices**                     | **Nitro**                          | **Desktop**                        |
+| **Devices**                     | **Nitro 5**                          | **Desktop**                        |
 | ------------------------------  | ---------------------------------  | ---------------------------------  |
 | - Laptop Acer Nitro 5           | - OS: Windows 11                   | - OS: Windows 10                   |
 | - Desktop: Self build (Not Good)| - CPU: Intel i5-11400H             | - CPU: Intel i5-9400F              |
