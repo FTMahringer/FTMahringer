@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmahringer" alt="ftmahringer" /></a> </p>
 
-- 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=symfony,docker,nodejs,vue" style="height:36px;" /> </p>
+- 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=docker,rust" style="height:36px;" /> </p>
 
 <!-- - 👨‍💻 All of my projects are available at [ftmahringer.github.io](https://ftmahringer.github.io/ )-->
 
