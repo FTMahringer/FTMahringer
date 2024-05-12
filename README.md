@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 | - Huawei P30 Pro	          | - GPU: NVIDEA RTX 3050 (Laptop GPU)| - GPU: NVIDEA GEFORCE GTX 1050 TI  |
 |                                 | - RAM: 32GB DDR4 2400MHZ           | - RAM: 64GB DDR4 3600MHZ           |
 |                                 | - HDD: 1TB                         | - HDD: 1TB + 500GB + 6TB           |
-|                                 | - SSD: 2TB                         | - SSD: 2TB                         |
+|                                 | - SSD: 500GB + 2TB                 | - SSD: 2TB                         |
 
 </details>
 
