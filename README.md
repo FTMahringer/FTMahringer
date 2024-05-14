@@ -85,8 +85,8 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 
 <details>
   <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ftmahringer&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+    
+  <img src="https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats" />
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
