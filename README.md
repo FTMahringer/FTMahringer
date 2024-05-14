@@ -61,6 +61,9 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <table>
   <tr>
     <td>
+      Systems:
+    </td>
+    <td>
       Tools:
     </td>
     <td>
@@ -71,6 +74,9 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" height="36">
     </td>
