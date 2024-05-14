@@ -50,20 +50,23 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
 
 ### Tech Stack
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex-basis: 30%; margin: 20px;">
-    <h4>Tools:</h4>
-    <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" height="36">
-  </div>
-  <div style="flex-basis: 30%; margin: 20px;">
-    <h4>Languages:</h4>
-    <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" height="36">
-  </div>
-  <div style="flex-basis: 30%; margin: 20px;">
-    <h4>Frameworks, Libraries & Databases:</h4>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" height="36">
-  </div>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <h4>Tools:</h4>
+      <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" height="36">
+    </td>
+    <td>
+      <h4>Languages:</h4>
+      <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" height="36">
+    </td>
+    <td>
+      <h4>Frameworks, Libraries & Databases:</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" height="36">
+    </td>
+  </tr>
+</table>
 
 
 <details>
