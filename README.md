@@ -49,23 +49,21 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <h4 align="left">Systems:</h4>
 <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;">
 
-<span style="display: inline-block; margin-right: 20px;">
-  <h4 align="left">Tools:</h4>
-  <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;">
-</span>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 20px;">
+    <h4 align="left">Tools:</h4>
+    <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;">
+  </div>
+  <div style="flex: 1; margin-right: 20px;">
+    <h4 align="left">Languages:</h4>
+    <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" style="height:36px;">
+  </div>
+  <div style="flex: 1;">
+    <h4 align="left">Frameworks, Libraries & Databases:</h4>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" style="height:36px;">
+  </div>
+</div>
 
-<span style="display: inline-block; margin-right: 20px;">
-  <h4 align="left">Languages:</h4>
-  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" style="height:36px;">
-</span>
-
-<span style="display: inline-block;">
-  <h4 align="left">Frameworks, Libraries & Databases:</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" style="height:36px;">
-</span>
-
-<h1 align="center"></h1>
-<h3 align="center"></h3>
 
 <details>
   <summary>Github Stats ⚡</summary>
