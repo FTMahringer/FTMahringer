@@ -57,38 +57,6 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
 
 
-<details>
-  <summary><h4>Tech Stac: </h4></summary>
-  
-  <table>
-  <tr>
-    <td>
-      Tools:
-    </td>
-    <td>
-      Languages:
-    </td>
-    <td>
-      Frameworks, Libraries & Databases:
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" height="36">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" height="36">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" height="36">
-    </td>
-  </tr>
-</table>
-  
-</details>
-
-
-<!--
 ### Tech Stack
 <table>
   <tr>
@@ -114,7 +82,6 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
     </td>
   </tr>
 </table>
--->
 
 
 <details>
