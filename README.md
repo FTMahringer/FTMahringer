@@ -12,10 +12,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmahringer" alt="ftmahringer" /></a> </p>--->
 
 <a href="#FTMahringer-title">
-  
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ftmahringer&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </a>
 
 - 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=symfony,docker,vue" style="height:36px;" /> </p>
