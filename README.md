@@ -19,25 +19,9 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 
 - ⚡ Fun fact **I think its pretty funnny, but i am a redhead and wear glasses.**
 
-
-<p align="left">
-  <a href="https://github.com/FTMahringer">
-    <img src="https://komarev.com/ghpvc/?username=FTMahringer" alt="page views">
-  </a>
-  <a href="https://github.com/FTMahringer?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/FTMahringer?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
-
 <a href="#FTMahringer-title">
   <img src="https://github-readme-stats.vercel.app/api?username=FTMahringer&show_icons=true" alt="FTMahringer" align="right" />
 </a>
-
-
-
 
 
 <details>
