@@ -7,9 +7,9 @@
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
 
-<!--- <p align="center"> <a href="https://github.com/sponsors/FTMahringer"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/></a></p> --->
+<!--- <p align="center"> <a href="https://github.com/sponsors/FTMahringer"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/></a></p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmahringer" alt="ftmahringer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmahringer" alt="ftmahringer" /></a> </p>--->
 
 - 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=symfony,docker,vue" style="height:36px;" /> </p>
 
