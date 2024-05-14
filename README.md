@@ -46,34 +46,33 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <a href="https://www.youtube.com//channel/UCzFRFnCSHcv5kiq8DY62Aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q1pwx" height="30" width="40" /></a>
 </p>
 
-<details> 
-  <summary> 
-    <h4 align="left">Systems:</h3> 
-  </summary> 
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;"> 
-</details> 
+<details>
+  <summary>
+    <h4 align="left">Systems:</h3>
+  </summary>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" style="height:36px;">
+</details>
 
-<details> 
-  <summary> 
-    <h4 align="left">Tools:</h3> 
-  </summary> 
-  <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;"> 
-</details> 
+<details style="display: inline-block; margin-right: 20px;">
+  <summary>
+    <h4 align="left">Tools:</h3>
+  </summary>
+  <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;">
+</details>
 
-!Tool1 !Tool2 !Tool3
+<details style="display: inline-block; margin-right: 20px;">
+  <summary>
+    <h4 align="left">Languages:</h3>
+  </summary>
+  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" style="height:36px;">
+</details>
 
-<details> 
-  <summary> 
-    <h4 align="left">Languages:</h3> 
-  </summary> 
-  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" style="height:36px;"> 
-</details> 
-<details> 
-  <summary> 
-    <h4 align="left">Frameworks, Libraries & Databases:</h3> 
-  </summary> 
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" style="height:36px;"> 
-</details> 
+<details style="display: inline-block;">
+  <summary>
+    <h4 align="left">Frameworks, Libraries & Databases:</h3>
+  </summary>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" style="height:36px;">
+</details>
 
 <h1 align="center"></h1>
 <h3 align="center"></h3>
