@@ -54,13 +54,13 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <table>
   <tr>
     <td>
-      ### Tools:
+      Tools:
     </td>
     <td>
-      ### Languages:
+      Languages:
     </td>
     <td>
-      ### Frameworks, Libraries & Databases:
+      Frameworks, Libraries & Databases:
     </td>
   </tr>
   <tr>
