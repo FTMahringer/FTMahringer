@@ -87,6 +87,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
   <summary>Github Stats ⚡</summary>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
+  
   <a href="#">[![GitHub Streak](https://streak-stats.demolab.com/?user=ftmahringer&theme=dark)](https://git.io/streak-stats)</a>
   
 </details>
