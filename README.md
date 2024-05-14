@@ -15,11 +15,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
   
   <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&theme=blueberry&count_private=true&hide_border=true&line_height=20 align="right" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true" alt="ftmahringer" align="right" />
-</a>
-
-<a href="#dereknguyen269-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=blueberry" alt="ftmahringer" align="right" />
 </a>
 
 - 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=symfony,docker,vue" style="height:36px;" /> </p>
