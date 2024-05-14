@@ -42,9 +42,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <a href="https://linkedin.com/in/fynn-mahringer-30a36b285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fynn-mahringer-30a36b285" height="30" width="40" /></a>
 <!--
   <a href="https://stackoverflow.com/users/24865837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24865837" height="30" width="40" /></a> -->
-
 <a href="https://fb.com/profile.php?id=61555758103732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fynn mahringer" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com//channel/UCzFRFnCSHcv5kiq8DY62Aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q1pwx" height="30" width="40" /></a>
 </p>
 
