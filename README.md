@@ -80,10 +80,8 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <div style="display: flex; align-items: center;">
-    <a href="#" style="margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github stats" /></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs" /></a>
-  </div>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ftmahringer&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 <h3 align="left">Support:</h3>
