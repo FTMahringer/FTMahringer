@@ -11,11 +11,8 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmahringer" alt="ftmahringer" /></a> </p>--->
 
-<a href="#FTMahringer-title">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&theme=blueberry&count_private=true&hide_border=true&line_height=20 align="right" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=blueberry" alt="ftmahringer" align="right" />
+<a href="#FTMahringer-title">  
+  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
 </a>
 
 - 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=symfony,docker,vue" style="height:36px;" /> </p>
