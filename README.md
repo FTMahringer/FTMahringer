@@ -62,6 +62,8 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
   <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" style="height:36px;"> 
 </details> 
 
+!Tool1 !Tool2 !Tool3
+
 <details> 
   <summary> 
     <h4 align="left">Languages:</h3> 
