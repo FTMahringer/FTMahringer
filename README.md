@@ -11,6 +11,10 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmahringer" alt="ftmahringer" /></a> </p>--->
 
+<a href="#FTMahringer-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=FTMahringer&show_icons=true" alt="FTMahringer" align="right" />
+</a>
+
 - 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=symfony,docker,vue" style="height:36px;" /> </p>
 
 <!-- - 👨‍💻 All of my projects are available at [ftmahringer.github.io](https://ftmahringer.github.io/ )-->
@@ -19,9 +23,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 
 - ⚡ Fun fact **I think its pretty funnny, but i am a redhead and wear glasses.**
 
-<a href="#FTMahringer-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=FTMahringer&show_icons=true" alt="FTMahringer" align="right" />
-</a>
+
 
 
 <details>
