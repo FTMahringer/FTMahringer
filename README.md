@@ -89,6 +89,8 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
   <a href="#">[![GitHub Streak](https://streak-stats.demolab.com/?user=ftmahringer&theme=dark)](https://git.io/streak-stats)</a>
   
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
 </details>
 
 <h3 align="left">Support:</h3>
