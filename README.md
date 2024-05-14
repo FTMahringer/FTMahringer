@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 </p>
 
 <a href="#FTMahringer-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=FTMahringer9&show_icons=true" alt="FTMahringer" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FTMahringer&show_icons=true" alt="FTMahringer" align="right" />
 </a>
 
 
