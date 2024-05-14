@@ -55,14 +55,22 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
   <tr>
     <td>
       <h4>Tools:</h4>
-      <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" height="36">
     </td>
     <td>
       <h4>Languages:</h4>
-      <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" height="36">
     </td>
     <td>
       <h4>Frameworks, Libraries & Databases:</h4>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" height="36">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,jquery,java,php,bash,lua,regex" height="36">
+    </td>
+    <td>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" height="36">
     </td>
   </tr>
