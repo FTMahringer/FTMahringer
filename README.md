@@ -57,6 +57,9 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 <table>
   <tr>
     <td>
+      Info:
+    </td>
+    <td>
       Tools:
     </td>
     <td>
@@ -68,6 +71,23 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
   </tr>
   <tr>
     <td>
+      Constantly used:
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,maven" height="36">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=css,html,js,jquery,java,php" height="36">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql&perline=50" height="36">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Just Learned:
+    </td>
+    <td>
       <img src="https://skillicons.dev/icons?i=git,figma,vercel,github,maven,gradle" height="36">
     </td>
     <td>
@@ -77,6 +97,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=50" height="36">
     </td>
   </tr>
+
 </table>
 
 
