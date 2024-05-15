@@ -11,15 +11,11 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
   <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
 </a>
 
-- 🌱 I’m currently learning <p> <img src="https://skillicons.dev/icons?i=symfony,docker,vue" style="height:36px;" /> </p>
-
 <!-- - 👨‍💻 All of my projects are available at [ftmahringer.github.io](https://ftmahringer.github.io/ )-->
 
 - 📫 How to reach me **fynn.mahringer@outlook.com**
 
 - ⚡ Fun fact **I think its pretty funnny, but i am a redhead and wear glasses.**
-
-
 
 
 <details>
@@ -72,6 +68,12 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
     <td><img src="https://skillicons.dev/icons?i=figma,vercel,gradle" height="36"></td>
     <td><img src="https://skillicons.dev/icons?i=c,cs,bash,lua,regex" height="36"></td>
     <td><img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=50" height="36"></td>
+  </tr>
+  <tr>
+    <td>Currently Learning:</td>
+    <td><img src="https://skillicons.dev/icons?i=docker" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=symfony,vue" height="36"></td>
   </tr>
 </table>
 
