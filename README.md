@@ -56,48 +56,23 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
 ### Tech Stack
 <table>
   <tr>
-    <td>
-      Info:
-    </td>
-    <td>
-      Tools:
-    </td>
-    <td>
-      Languages:
-    </td>
-    <td>
-      Frameworks, Libraries & Databases:
-    </td>
+    <td>Info:</td>
+    <td>Tools:</td>
+    <td>Languages:</td>
+    <td>Frameworks, Libraries & Databases:</td>
   </tr>
   <tr>
-    <td>
-      Constantly used:
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,maven" height="36">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=css,html,js,jquery,java,php" height="36">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql&perline=50" height="36">
-    </td>
+    <td>Constantly used:</td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,maven" height="36">
+    </td><td><img src="https://skillicons.dev/icons?i=css,html,js,jquery,java,php" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql&perline=50" height="36"></td>
   </tr>
   <tr>
-    <td>
-      Just Learned:
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=figma,vercel,gradle" height="36">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c,cs,bash,lua,regex" height="36">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=50" height="36">
-    </td>
+    <td>Just Learned:</td>
+    <td><img src="https://skillicons.dev/icons?i=figma,vercel,gradle" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cs,bash,lua,regex" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=50" height="36"></td>
   </tr>
-
 </table>
 
 
