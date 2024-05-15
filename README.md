@@ -64,7 +64,7 @@ src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-t
     <td><img src="https://skillicons.dev/icons?i=mysql&perline=50" height="36"></td>
   </tr>
   <tr>
-    <td>Just Learned:</td>
+    <td>Learned for fun, or in school:</td>
     <td><img src="https://skillicons.dev/icons?i=figma,vercel,gradle" height="36"></td>
     <td><img src="https://skillicons.dev/icons?i=c,cs,bash,lua,regex" height="36"></td>
     <td><img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=50" height="36"></td>
