@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fynn Mahringer</h1>
 <h3 align="center">A Software Engeneer in training.</h3>
 
-![](https://komarev.com/ghpvc/?username=ftmahringer&color=red&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge&base=280)
+![](https://komarev.com/ghpvc/?username=ftmahringer&color=red&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge)
 <!-- The base is from my other two accounts, which are now followed by this new one -->
 
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img
