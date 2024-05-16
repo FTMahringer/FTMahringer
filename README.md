@@ -23,7 +23,7 @@
   
 | **Devices**                     | **Nitro 5**                          | **Desktop**                        |
 | ------------------------------  | ---------------------------------  | ---------------------------------  |
-| - Laptop Acer Nitro 5           | - OS: Windows 11                   | - OS: Windows 10                   |
+| - Laptop: Acer Nitro 5           | - OS: Windows 11                   | - OS: Windows 10                   |
 | - Desktop: Self build (Not Good)| - CPU: Intel i5-11400H             | - CPU: Intel i5-9400F              |
 | - Phone: Huawei P30 Pro	        | - GPU: NVIDEA RTX 3050 (Laptop GPU)| - GPU: NVIDEA GEFORCE GTX 1050 TI  |
 |                                 | - RAM: 32GB DDR4 2400MHZ           | - RAM: 64GB DDR4 3600MHZ           |
