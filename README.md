@@ -3,6 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ftmahringer&color=red&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge)
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
+<a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
 
 <a href="#FTMahringer-title">  
   <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
