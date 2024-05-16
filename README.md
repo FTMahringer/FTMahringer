@@ -81,13 +81,11 @@
 
 <details>
   <summary>Github Stats ⚡</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&bg_color=0D1117&text_color=c9d1d9&hide_border=true" align="right" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&bg_color=0D1117&text_color=c9d1d9&hide_border=true" align="right" />
-
-<img src="https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D" align="left" />
-
-  
+  <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </details>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/FTMahringer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FTMahringer" /></a></p>
