@@ -86,6 +86,10 @@
   <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </details>
 
+## Currently working on
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ftmahringer&repo=Grid-Games)](https://github.com/FTMahringer/Grid-Games)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/FTMahringer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FTMahringer" /></a></p>
