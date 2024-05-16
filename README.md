@@ -85,7 +85,7 @@
 <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&layout=compact&bg_color=0D1117&text_color=c9d1d9&langs_count=8&hide_border=true&card_width=400" align="right" />
 -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&size_weight=0.5&count_weight=0.5&langs_count=8&bg_color=0D1117&text_color=c9d1d9&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
