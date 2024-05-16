@@ -70,7 +70,7 @@
     <td>Currently Learning:</td>
     <td><img src="https://skillicons.dev/icons?i=docker" height="36"></td>
     <td><img src="https://skillicons.dev/icons?i=..." height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=symfony,vue" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=symfony" height="36"></td>
   </tr>
 </table>
 
