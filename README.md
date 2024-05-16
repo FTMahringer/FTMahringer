@@ -7,6 +7,9 @@
 
 <a href="#FTMahringer-title">  
   <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
+  
 </a>
 
 
