@@ -10,7 +10,7 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&layout=compact&hide=cmake,dockerfile&bg_color=0D1117&text_color=c9d1d9&langs_count=8&hide_border=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- - 👨‍💻 All of my projects are available at [ftmahringer.github.io](https://ftmahringer.github.io/ )-->
 
@@ -81,10 +81,11 @@
 
 <details>
   <summary>Github Stats ⚡</summary>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&layout=compact&hide=cmake,dockerfile&bg_color=0D1117&text_color=c9d1d9&langs_count=8&hide_border=true&card_width=500" align="right" />
   
   <a href="#">[![GitHub Streak](https://streak-stats.demolab.com/?user=ftmahringer&theme=dark)](https://git.io/streak-stats)</a>
+
   
 </details>
 
