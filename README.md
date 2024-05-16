@@ -9,6 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
 </a>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&layout=compact&hide=cmake,dockerfile&bg_color=0D1117&text_color=c9d1d9&langs_count=8&hide_border=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- - 👨‍💻 All of my projects are available at [ftmahringer.github.io](https://ftmahringer.github.io/ )-->
 
 - 📫 How to reach me **fynn.mahringer@outlook.com**
