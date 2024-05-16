@@ -82,7 +82,7 @@
 <details>
   <summary>Github Stats ⚡</summary>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&layout=compact&hide=cmake,dockerfile&bg_color=0D1117&text_color=c9d1d9&langs_count=8&hide_border=true&card_width=500" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&layout=compact&bg_color=0D1117&text_color=c9d1d9&langs_count=8&hide_border=true&card_width=500" align="right" />
   
   <a href="#">[![GitHub Streak](https://streak-stats.demolab.com/?user=ftmahringer&theme=dark)](https://git.io/streak-stats)</a>
 
