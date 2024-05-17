@@ -47,8 +47,8 @@
 </details>
 
 
-<h2 align="right">Systems i am familiar with: </h2>
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36" align="right">
+<h2>Systems i am familiar with: </h2>
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
