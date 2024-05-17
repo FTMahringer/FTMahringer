@@ -101,8 +101,13 @@
 
 <details>
   <summary>Just Techs i used: </summary>
-  <img src="https://skillicons.dev/icons?i=figma,vercel,gradle,maven,git,github,bash,lua,regex" height="30" >
-  <img src="https://skillicons.dev/icons?i=c,cs,css,js,jquery,java,php,mysql,mongodb,postgres" height="30" >
+  <img src="https://skillicons.dev/icons?i=figma,vercel,gradle,maven,git,github" height="30" >
+    
+  <img src="https://skillicons.dev/icons?i=bash,lua,regex" height="30" >
+    
+  <img src="https://skillicons.dev/icons?i=c,cs,css,js,jquery,java,php" height="30" >
+  
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="30" >
 </details>
 
 
