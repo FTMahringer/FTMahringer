@@ -14,7 +14,9 @@
   
   <div align="left">
     - 👨‍💻 All of my projects are available at ftmahringer.github.io (currently unavailable) <!-- [ftmahringer.github.io](https://ftmahringer.github.io/)-->
+    
     - 📫 How to reach me **fynn.mahringer@outlook.com**
+    
     - ⚡ Fun fact **I think its pretty funnny, but i am a redhead and wear glasses.**
   </div>
 
