@@ -69,9 +69,9 @@
     <td><img src="https://skillicons.dev/icons?i=mysql" height="36"></td>
   </tr>
   <tr>
-    <td>Constantly used:</td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,maven" height="36">
-    </td><td><img src="https://skillicons.dev/icons?i=css,html,js,jquery,java,php" height="36"></td>
+    <td>Used in school or small Projects:</td>
+    <td><img src="https://skillicons.dev/icons?i=github,maven" height="36">
+    </td><td><img src="https://skillicons.dev/icons?i=css,java" height="36"></td>
     <td><img src="https://skillicons.dev/icons?i=mysql" height="36"></td>
   </tr>
   <tr>
