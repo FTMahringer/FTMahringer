@@ -5,15 +5,25 @@
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
 
-<a href="#FTMahringer-title">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
-</a>
+<div>
+  <div align="right">
+    <a href="#FTMahringer-title">  
+      <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" alt="ftmahringer" />
+    </a>
+  </div>
+  
+  <div align="left">
+    - 👨‍💻 All of my projects are available at ftmahringer.github.io (currently unavailable) <!-- [ftmahringer.github.io](https://ftmahringer.github.io/)-->
+    - 📫 How to reach me **fynn.mahringer@outlook.com**
+    - ⚡ Fun fact **I think its pretty funnny, but i am a redhead and wear glasses.**
+  </div>
 
-- 👨‍💻 All of my projects are available at ftmahringer.github.io (currently unavailable) <!-- [ftmahringer.github.io](https://ftmahringer.github.io/)-->
+  
+  
+</div>
 
-- 📫 How to reach me **fynn.mahringer@outlook.com**
 
-- ⚡ Fun fact **I think its pretty funnny, but i am a redhead and wear glasses.**
+
 
 ## Currently working on
 
