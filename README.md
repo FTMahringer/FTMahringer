@@ -6,11 +6,9 @@
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
 
 <div>
-  <div align="right">
     <a href="#FTMahringer-title">  
-      <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" alt="ftmahringer" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
     </a>
-  </div>
 
   - 👨‍💻 All of my projects are available at ftmahringer.github.io (currently unavailable) <!-- [ftmahringer.github.io](https://ftmahringer.github.io/)-->
   
