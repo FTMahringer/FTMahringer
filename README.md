@@ -47,10 +47,8 @@
 </details>
 
 
-<h2>Systems i am familiar with: </h2>
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
     <a href="https://dev.to/q1pwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="q1pwx" height="30" /></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/fynn-mahringer-30a36b285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fynn-mahringer-30a36b285" height="30" /></a>&nbsp;&nbsp;
@@ -59,6 +57,8 @@
     <a href="https://www.youtube.com//channel/UCzFRFnCSHcv5kiq8DY62Aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q1pwx" height="30" /></a>
 </p>
 
+### Systems i am familiar with:
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
 
 
 
