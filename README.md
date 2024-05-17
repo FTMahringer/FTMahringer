@@ -89,6 +89,11 @@
   </tr>
   -->
 </table>
+<details>
+  <summary>Just Techs i used: </summary>
+    <img src="https://skillicons.dev/icons?i=figma,vercel,gradle,c,cs,bash,lua,regex,mongodb,postgres,figma,vercel,gradle,maven" />
+    <img src="https://skillicons.dev/icons?i=git,github,css,js,jquery,java,php,mysql" />
+</details>
 
 
 <details>
