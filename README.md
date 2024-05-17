@@ -9,9 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
 </a>
 
-
-
-
 <!-- - 👨‍💻 All of my projects are available at [ftmahringer.github.io](https://ftmahringer.github.io/ )-->
 
 - 📫 How to reach me **fynn.mahringer@outlook.com**
