@@ -92,9 +92,9 @@
 
 <details>
   <summary>Just Techs i used: </summary>
-  <a <img src="https://skillicons.dev/icons?i=figma,vercel,gradle,maven,git,github,bash,lua,regex" height="30" ></a>
-  <a <img src="https://skillicons.dev/icons?i=c,cs,css,js,jquery,java,php,mysql,mongodb,postgres" height="30" ></a>
-    
+  <img src="https://skillicons.dev/icons?i=figma,vercel,gradle,maven,git,github,bash,lua,regex" height="30" >
+  
+  <img src="https://skillicons.dev/icons?i=c,cs,css,js,jquery,java,php,mysql,mongodb,postgres" height="30" >
 </details>
 
 
