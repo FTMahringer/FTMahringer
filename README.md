@@ -14,6 +14,7 @@
 - 📫 How to reach me **fynn.mahringer@outlook.com**
 
 - ⚡ Fun fact **I think its pretty funnny, but i am a redhead and wear glasses.**
+- 
 
 ## Currently working on
 
