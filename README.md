@@ -50,8 +50,8 @@
 <a href="https://www.youtube.com//channel/UCzFRFnCSHcv5kiq8DY62Aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q1pwx" height="30" width="40" /></a>
 </p>
 
-### Systems
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
+### Systems i am familiar with
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian,unix" height="36">
 
 
 ### Tech Stack
