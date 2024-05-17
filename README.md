@@ -12,7 +12,8 @@
     </a>
   </div>
   
-  <div align="left">
+  <div>
+    
     - 👨‍💻 All of my projects are available at ftmahringer.github.io (currently unavailable) <!-- [ftmahringer.github.io](https://ftmahringer.github.io/)-->
     
     - 📫 How to reach me **fynn.mahringer@outlook.com**
