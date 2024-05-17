@@ -47,11 +47,11 @@
 </details>
 
 <div>
-    ### Systems i am familiar with
+    <h2>Systems i am familiar with: </h2>
     <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36" align="right">
 
 
-    <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/q1pwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="q1pwx" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/fynn-mahringer-30a36b285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fynn-mahringer-30a36b285"                 height="30" width="40" /></a>
