@@ -63,16 +63,22 @@
     <td>Frameworks, Libraries & Databases:</td>
   </tr>
   <tr>
+    <td>Used in last Project:</td>
+    <td><img src="https://skillicons.dev/icons?i=git,github" height="36">
+    </td><td><img src="https://skillicons.dev/icons?i=css,js,jquery,php" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" height="36"></td>
+  </tr>
+  <tr>
     <td>Constantly used:</td>
     <td><img src="https://skillicons.dev/icons?i=git,github,maven" height="36">
     </td><td><img src="https://skillicons.dev/icons?i=css,html,js,jquery,java,php" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql&perline=50" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" height="36"></td>
   </tr>
   <tr>
     <td>Learned for fun, or in school:</td>
     <td><img src="https://skillicons.dev/icons?i=figma,vercel,gradle" height="36"></td>
     <td><img src="https://skillicons.dev/icons?i=c,cs,bash,lua,regex" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=50" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres" height="36"></td>
   </tr>
   <!--
   <tr>
