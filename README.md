@@ -51,7 +51,7 @@
 </p>
 
 ### Systems i am familiar with
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian,unix" height="36">
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
 
 
 ### Tech Stack
@@ -77,7 +77,7 @@
   <tr>
     <td>Currently Learning:</td>
     <td><img src="https://skillicons.dev/icons?i=docker" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=..." height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind,ts" height="36"></td>
     <td><img src="https://skillicons.dev/icons?i=symfony" height="36"></td>
   </tr>
 </table>
