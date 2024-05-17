@@ -92,6 +92,8 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ftmahringer&repo=Grid-Games)](https://github.com/FTMahringer/Grid-Games)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ftmahringer&repo=Grid-Games)](https://github.com/FTMahringer/Grid-Games)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ftmahringer&repo=Grid-Games)](https://github.com/FTMahringer/Grid-Games)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ftmahringer&repo=Grid-Games)](https://github.com/FTMahringer/Grid-Games)
   
 </div>
