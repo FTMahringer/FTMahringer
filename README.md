@@ -47,7 +47,7 @@
 </details>
 
 <div>
-    <h2>Systems i am familiar with: </h2>
+    <h2 align="right">Systems i am familiar with: </h2>
     <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36" align="right">
 
 
