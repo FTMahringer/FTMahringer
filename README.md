@@ -74,12 +74,14 @@
     <td><img src="https://skillicons.dev/icons?i=c,cs,bash,lua,regex" height="36"></td>
     <td><img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=50" height="36"></td>
   </tr>
+  <!--
   <tr>
     <td>Currently Learning:</td>
-    <td><img src="https://skillicons.dev/icons?i=..." height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=..." height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=..." height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind,ts" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=symfony" height="36"></td>
   </tr>
+  -->
 </table>
 
 
