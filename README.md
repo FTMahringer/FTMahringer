@@ -100,7 +100,7 @@
 </table>
 
 <details>
-  <summary>Just Techs i used: </summary>
+  <summary>All Techs i used: </summary>
   <img src="https://skillicons.dev/icons?i=figma,vercel,gradle,maven,git,github" height="30" >
     
   <img src="https://skillicons.dev/icons?i=bash,lua,regex" height="30" >
