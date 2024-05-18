@@ -78,10 +78,10 @@
     <td><img src="https://skillicons.dev/icons?i=mysql" height="36"></td>
   </tr>
   <tr>
-    <td>Used in school or small Projects:</td>
-    <td><img src="https://skillicons.dev/icons?i=github,maven" height="36">
-    </td><td><img src="https://skillicons.dev/icons?i=css,java" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" height="36"></td>
+    <td>Used in last school Project:</td>
+    <td><img src="https://skillicons.dev/icons?i=github" height="36">
+    </td><td><img src="https://skillicons.dev/icons?i=java" height="36"></td>
+    <td><img src="https://skillicons.dev/icons?i=..." height="36"></td>
   </tr>
   <tr>
     <td>Learned for fun, or in school:</td>
