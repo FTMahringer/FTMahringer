@@ -23,17 +23,15 @@
 
 ## Currently working on
 
-<div>
-    <div align="left">
+<div style="display: flex; flex-direction: row;">
+  <div style="margin-right: 10px;">
       
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ftmahringer&repo=Grid-Games&theme=monokai&show_icons=true&hide_border=true&line_height=20)](https://github.com/FTMahringer/Grid-Games)
   </div>
-  
-  <div align="right">
+  <div>
       
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ftmahringer&repo=TristansToughTrials&theme=monokai&show_icons=true&hide_border=true&line_height=20)](https://github.com/FTMahringer/TristansToughTrials)
   </div>
-  
 </div>
 
 
