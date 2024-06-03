@@ -18,8 +18,6 @@
 
 </div>
 
- style="display: inline-block; margin: 0 10px;"
-
 
 ## Currently working on
 <div align="center">
