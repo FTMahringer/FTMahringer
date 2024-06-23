@@ -27,12 +27,8 @@ Systems I am familiar with:
 </div>
 -->
 
-<details>
-  <summary>
-    My Stuff:
-  </summary>
-  <br>
-  
+My Stuff:
+
 | **Devices**                     | **Nitro 5**                          | **Desktop**                        |
 | ------------------------------  | ---------------------------------  | ---------------------------------  |
 | - Laptop: Acer Nitro 5           | - OS: Windows 11                   | - OS: Windows 10                   |
@@ -42,7 +38,6 @@ Systems I am familiar with:
 |                                 | - HDD: 1TB                         | - HDD: 1TB + 500GB + 6TB           |
 |                                 | - SSD: 500GB + 2TB                 | - SSD: 2TB                         |
 
-</details>
 
 
 
