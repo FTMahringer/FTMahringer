@@ -58,54 +58,12 @@
 <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
 
 
-
-
-### Tech Stack
-<table>
-  <tr>
-    <td>Info:</td>
-    <td>Tools:</td>
-    <td>Languages:</td>
-    <td>Frameworks, Libraries & Databases:</td>
-  </tr>
-  <tr>
-    <td>Used in last Project:</td>
-    <td><img src="https://skillicons.dev/icons?i=git,github" height="36">
-    </td><td><img src="https://skillicons.dev/icons?i=css,js,jquery,php" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" height="36"></td>
-  </tr>
-  <tr>
-    <td>Used in last school Project:</td>
-    <td><img src="https://skillicons.dev/icons?i=github" height="36">
-    </td><td><img src="https://skillicons.dev/icons?i=java" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=..." height="36"></td>
-  </tr>
-  <tr>
-    <td>Learned for fun, or in school:</td>
-    <td><img src="https://skillicons.dev/icons?i=figma,vercel,gradle" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cs,bash,lua,regex" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres" height="36"></td>
-  </tr>
-  <!--
-  <tr>
-    <td>Currently Learning:</td>
-    <td><img src="https://skillicons.dev/icons?i=docker" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=tailwind,ts" height="36"></td>
-    <td><img src="https://skillicons.dev/icons?i=symfony" height="36"></td>
-  </tr>
-  -->
-</table>
-
-<details>
-  <summary>All Techs i used: </summary>
-  <img src="https://skillicons.dev/icons?i=figma,vercel,gradle,maven,git,github" height="30" >
-    
-  <img src="https://skillicons.dev/icons?i=bash,lua,regex" height="30" >
-    
-  <img src="https://skillicons.dev/icons?i=c,cs,css,js,jquery,java,php" height="30" >
-  
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="30" >
-</details>
+<h4 align="left">Languages:</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,css,cs,html,js,jquery,java,php,bash,lua,regex,md" style="height:36px;">
+<h4 align="left">Frameworks, Libraries & Databases:</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,bootstrap,symfony,mysql,mongodb,mariadb,postgres&perline=50" style="height:36px;" />  
+<h4 align="left">Tools:</h3>
+<img src="https://skillicons.dev/icons?i=git,npm,pnpm,figma,vercel,github,gitlab,maven,gradle" style="height:36px;" />
 
 
 <details>
