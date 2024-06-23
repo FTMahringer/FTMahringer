@@ -5,18 +5,19 @@
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
 
-<div>
-    <a href="#FTMahringer-title">  
-      <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" alt="ftmahringer" align="right" />
-    </a>
+About Me
+<div> <a href="#FTMahringer-title"> <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" alt="ftmahringer" align="right" /> </a>
+👨‍💻 All of my projects are available at ftmahringer.github.io (currently unavailable) <!-- [ftmahringer.github.io](https://ftmahringer.github.io/)-->
 
-  - 👨‍💻 All of my projects are available at ftmahringer.github.io (currently unavailable) <!-- [ftmahringer.github.io](https://ftmahringer.github.io/)-->
-  
-  - 📫 How to reach me **fynn.mahringer@outlook.com**
-  
-  - ⚡ Fun fact **I think its pretty funnny, but i am a redhead and wear glasses.**
+📫 How to reach me fynn.mahringer@outlook.com
+
+⚡ Fun fact I think its pretty funny, but I am a redhead and wear glasses.
 
 </div>
+Connect with me:
+<p align="left"> <a href="https://linkedin.com/in/fynn-mahringer-30a36b285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fynn-mahringer-30a36b285" height="30" /></a>&nbsp;&nbsp; <a href="https://fb.com/profile.php?id=61555758103732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fynn mahringer" height="30" /></a>&nbsp;&nbsp; <a href="https://www.youtube.com//channel/UCzFRFnCSHcv5kiq8DY62Aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q1pwx" height="30" /></a> </p>
+Systems I am familiar with:
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
 
 <!--
 ## Currently working on
@@ -43,19 +44,6 @@
 
 </details>
 
-
-
-### Connect with me:
-<p align="left">
-    <!-- <a href="https://dev.to/q1pwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="q1pwx" height="30" /></a>&nbsp;&nbsp; -->
-    <a href="https://linkedin.com/in/fynn-mahringer-30a36b285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fynn-mahringer-30a36b285" height="30" /></a>&nbsp;&nbsp;
-    <!-- <a href="https://stackoverflow.com/users/24865837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24865837" height="30" /></a>&nbsp;&nbsp; -->
-    <a href="https://fb.com/profile.php?id=61555758103732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fynn mahringer" height="30" /></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com//channel/UCzFRFnCSHcv5kiq8DY62Aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q1pwx" height="30" /></a>
-</p>
-
-### Systems i am familiar with:
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,debian" height="36">
 
 
 <h4 align="left">Languages:</h3>
