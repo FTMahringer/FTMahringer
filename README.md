@@ -11,7 +11,7 @@ About Me
 
 - 📫 How to reach me fynn.mahringer@outlook.com
 
-- ⚡ Fun fact I think its pretty funny, but I am a redhead and wear glasses.
+- ⚡ Fun fact, I am a ginger and wear glasses.
 
 </div>
 
