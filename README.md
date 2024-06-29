@@ -54,7 +54,7 @@ Systems I am familiar with:
 <h4 align="left">Frameworks, Libraries & Databases:</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,symfony,mysql,mongodb,postgres&perline=50" style="height:36px;" />  
 <h4 align="left">Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,npm,pnpm,figma,vercel,github,gitlab,maven,gradle" style="height:36px;" />
+<img src="https://skillicons.dev/icons?i=git,npm,pnpm,figma,vercel,github,maven,gradle" style="height:36px;" />
 
 
 <details>
