@@ -17,6 +17,8 @@ About Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/q1pwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="q1pwx" height="30" width="40" /></a>
+<a href="https://twitter.com/q1pwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="q1pwx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fynn-mahringer-30a36b285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fynn-mahringer-30a36b285" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24865837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24865837" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uczfrfncshcv5kiq8dy62aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczfrfncshcv5kiq8dy62aag" height="30" width="40" /></a>
