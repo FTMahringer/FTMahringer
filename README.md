@@ -13,6 +13,8 @@ About Me
 
 - ⚡ Fun fact, I am a ginger and wear glasses.
 
+- I am 19 years old
+
 </div>
 
 <h3 align="left">Connect with me:</h3>
