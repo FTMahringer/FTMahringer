@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fynn Mahringer</h1>
-<h3 align="center">A Software Engeneer in training.</h3>
+<h3 align="center">A learning Software developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=ftmahringer&color=red&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge)
 <a href="https://www.github.com/FTMahringer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FTMahringer?logo=github&style=for-the-badge&color=red&labelColor=gray" /></a>
