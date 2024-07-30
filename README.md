@@ -26,9 +26,6 @@ About Me
 <!-- <a href="https://www.youtube.com/c/uczfrfncshcv5kiq8dy62aag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczfrfncshcv5kiq8dy62aag" height="30" width="40" /></a> -->
 </p>
 
-Systems I am familiar with:
-
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" height="36">
 
 <!--
 ## Currently working on
