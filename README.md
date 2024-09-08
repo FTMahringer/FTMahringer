@@ -93,12 +93,23 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=FTMahringer&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&hide_border=true&layout=compact" align="center" /></div>  
+<!--
 
+<img src="https://github-readme-stats.vercel.app/api?username=FTMahringer&show_icons=true&theme=monokai&hide_border=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&theme=monokai&hide_border=true&hide_border=true&layout=compact" align="center" /></div>  
+
+-->
 <br/>  
 
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTMahringer&show_icons=true&theme=monokai&hide_border=true&count_private=true&hide_border=true" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTMahringer&theme=monokai&hide_border=true&hide_border=true" />
+</a>
 
   
 
