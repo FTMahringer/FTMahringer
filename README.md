@@ -95,27 +95,14 @@
 ## Github Stats  
 <br/>
 <div>
-
-  <!--
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" align="left" height="150"/> 
-
-  <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D" align="right" height="150" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&bg_color=0D1117&text_color=c9d1d9&hide_border=true" align="center" />
-
-
   
-  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=transparent&hide_border=true&line_height=20" height="180" align="left"/> 
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" height="180" align="left"/> 
-
-  <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" align="right" />
+  <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" align="right" />
   
 </div>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&theme=monokai&hide_border=true&hide_border=true&layout=compact" align="center" /></div>  
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&theme=transparent&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>
 
