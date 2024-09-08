@@ -96,9 +96,23 @@
 
 ## Github Stats  
 <br/>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=transparent&hide_border=true&line_height=20" height="200" align="left"/> 
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  
+  <img height=200 src="https://streak-stats.demolab.com?user=FTMahringer&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" align="right" />
+</a>
+
+
+<br/>
+<br/>
 <div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=transparent&hide_border=true&line_height=20" align="left"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=transparent&hide_border=true&line_height=20" width="" align="left"/> 
 
   <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" align="right" />
   
