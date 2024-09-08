@@ -130,9 +130,9 @@
 
 
   -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" height="180" width="230" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" height="180" width="500" /> 
 
-  <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" width="230" />
+  <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" width="500" />
   
 </div>
 
