@@ -113,7 +113,7 @@
 
 -->
 
-<div justify-content="space-between">
+<div>
 
   <!--
 
@@ -134,9 +134,9 @@
   
 </div>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&bg_color=0D1117&text_color=c9d1d9&hide_border=true" align="center" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&bg_color=0D1117&text_color=c9d1d9&hide_border=true" align="center" />
+</div>
 
 <br/>
 
