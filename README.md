@@ -93,16 +93,7 @@
 
 
 ## Github Stats  
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=FTMahringer&show_icons=true&theme=monokai&hide_border=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&theme=monokai&hide_border=true&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-
+<br/>
 <div>
 
   <!--
@@ -124,9 +115,7 @@
   
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&bg_color=0D1117&text_color=c9d1d9&hide_border=true" align="center" />
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTMahringer&theme=monokai&hide_border=true&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>
 
