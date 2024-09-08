@@ -113,7 +113,7 @@
 
 -->
 
-<div align="space-between">
+<div justify-content="space-between">
 
   <!--
 
