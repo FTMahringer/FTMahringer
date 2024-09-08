@@ -100,9 +100,9 @@
 
 <div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=transparent&hide_border=true&line_height=20"/> 
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=transparent&hide_border=true&line_height=20"/> 
 
-  <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img height="200" src="https://streak-stats.demolab.com?user=FTMahringer&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   
 </div>
 <br/>
