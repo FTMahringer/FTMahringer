@@ -114,9 +114,9 @@
 -->
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" align="left" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ftmahringer&show_icons=true&theme=monokai&hide_border=true&line_height=20" align="left" height="100"/> 
 
-  <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D" align="right" />
+  <img src="https://streak-stats.demolab.com?user=FTMahringer&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D" align="right" height="100" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmahringer&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&bg_color=0D1117&text_color=c9d1d9&hide_border=true" align="center" />
 
