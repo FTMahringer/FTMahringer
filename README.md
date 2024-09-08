@@ -116,7 +116,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=FTMahringer&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=FTMahringer&&style=flat-square" align="center" />
 </div>  
   
 
