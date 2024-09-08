@@ -94,7 +94,6 @@
 
 ## Github Stats  
 
-<!--
 
 <img src="https://github-readme-stats.vercel.app/api?username=FTMahringer&show_icons=true&theme=monokai&hide_border=true&count_private=true&hide_border=true" align="left" />  
 
@@ -103,15 +102,6 @@
 <br/>  
 
 
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTMahringer&show_icons=true&theme=monokai&hide_border=true&count_private=true&hide_border=true" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTMahringer&theme=monokai&hide_border=true&hide_border=true&layout=compact" />
-</a>
-
-
--->
 
 <div>
 
