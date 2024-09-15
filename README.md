@@ -3,7 +3,6 @@
 <img src="" align="center" style="width: 100%" />
 -->
 </div>  
-<br/>
 
 ### <div align="center">I'm Fynn, a student learning the art of coding and programming for 5 years in the HTBLA-Steyr</div>  
   
