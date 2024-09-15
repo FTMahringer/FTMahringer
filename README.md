@@ -7,7 +7,7 @@
 ### <div align="center">I'm Fynn, a student learning the art of coding and programming for 5 years in the HTBLA-Steyr</div>  
   
 
-- 🌱 I’m currently learning Java  
+- 🌱 I’m currently deepening my knowlege about Java and trying out PHP (Symfony
   
 
 - ⚡ Fun fact: I use tabs over spaces  
