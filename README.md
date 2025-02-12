@@ -80,10 +80,11 @@
 
 ### 🎯 Goals for 2025  
 
-✅ Improve **Java & PHP (Symfony)** skills  
-✅ Explore **AI-driven** applications  
-✅ Contribute to **open-source** projects  
+✅ Improve **Java & PHP** skills  
+✅ Explore **AI-driven** applications   
 ✅ Build more **real-world** applications  
+✅ Improve my Docker-knowledge
+
 
 ---
 
