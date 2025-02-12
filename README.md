@@ -89,6 +89,6 @@
 ---
 
 ### ⭐ Fun Fact  
-I enjoy **self-hosting** servers, building **custom applications**, and tweaking **Linux & Windows setups** to maximize efficiency!  
+I enjoy self-hosting servers, building custom applications, and over-optimizing programs to the point where I sometimes confuse myself and have to rethink and reprogram them in my head.
 
 ---
