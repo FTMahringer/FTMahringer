@@ -7,9 +7,7 @@
 
 <div align="center">
 
-💻 Student at **HTBLA-Steyr**, passionate about coding & software development  
-🌱 Currently deepening my **Java** knowledge and exploring **PHP (Symfony)**  
-⚡ **Fun fact:** I prefer **tabs over spaces**  
+💻 Student at **HTBLA-Steyr**, passionate about coding & software development 
 
 </div>  
 
