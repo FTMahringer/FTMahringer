@@ -87,6 +87,5 @@
 ---
 
 ### ⭐ Fun Fact  
-I enjoy self-hosting servers, building custom applications, and over-optimizing programs to the point where I sometimes confuse myself and have to rethink and reprogram them in my head.
-
+I enjoy self-hosting servers, building custom applications, and over-optimizing programs to the point where I sometimes confuse myself and have to rethink and redo it.
 ---
