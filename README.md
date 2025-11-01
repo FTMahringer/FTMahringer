@@ -86,13 +86,11 @@
 
 ---
 
-### 🎯 Goals for 2025  
+### 🎯 Goals for 2026 
 
-✅ Improve **Java & PHP** skills  
-✅ Learn **Symfony**
-✅ Explore **AI-driven** applications   
-✅ Build more **real-world** applications  
-✅ Improve my Docker-knowledge
+- [ ] Improve **Java & PHP** skills  
+- [ ] Learn Miencraft mod and Plugin programming
+- [ ] Learn new programming languages
 
 
 ---
