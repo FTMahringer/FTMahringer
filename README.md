@@ -89,7 +89,7 @@
 ### 🎯 Goals for 2026 
 
 - [ ] Improve **Java & PHP** skills  
-- [ ] Learn Miencraft mod and Plugin programming
+- [ ] Learn Minecraft mod and Plugin programming
 - [ ] Learn new programming languages
 
 
