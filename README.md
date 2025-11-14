@@ -4,7 +4,7 @@
 
 💻 Student at **HTBLA-Steyr**  
 🧑‍💻 20 years old — coding for 5 years, self-hosting for 2 years  
-📌 Passion for backend, Linux, DevOps & self-hosted infrastructure  
+📌 Backend, Linux, DevOps & self-hosted infrastructure  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FTMahringer&style=for-the-badge&color=blue)
 
