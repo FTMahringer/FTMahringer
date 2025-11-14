@@ -1,8 +1,8 @@
-### 🚀 Fynn Mahringer | Passionate Developer & Tech Enthusiast  
+### 🚀 Fynn Mahringer | Developer & Tech Enthusiast  
 
 <div align="center">
 
-💻 Student at **HTBLA-Steyr**, passionate about coding & software development  
+💻 Student at **HTBLA-Steyr**, 20 years old, started programming 5 years ago, started self-hosting 2 years ago
 
 </div>  
 
