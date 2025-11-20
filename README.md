@@ -44,7 +44,6 @@
 <div align="center">
 <a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a>
 <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/></a>
-<a href="https://www.apachefriends.org/"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" height="50"/></a>
 <a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/></a>
 <a href="https://redis.io/"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50"/></a>
 </div>
