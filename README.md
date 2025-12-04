@@ -76,7 +76,7 @@ I enjoy learning new technologies, creating useful tools and hosting my own serv
 ---
 
 ## 📅 Developer Timeline  
-➡️ **[See full timeline →](./TIMELINE.md)**
+➡️ **[See full timeline →](./TIMELINE.md)**  
 
 ---
 
