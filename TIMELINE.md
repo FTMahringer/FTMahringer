@@ -1,68 +1,106 @@
-# 🕒 Developer Timeline  
+# 🕒 Developer Timeline (Combined ASCII & Projects)
 
-A small overview of how my journey as a developer and homelab builder started and evolved over time.
-
----
-
-## 2019 – First Steps  
-- Started learning programming  
-- First small projects with C and Java  
-- Learned basic Linux commands  
+A combined visual timeline showing both my development progress and the real projects I built over the years.
 
 ---
 
-## 2020 – Web Development  
-- Built my first PHP/HTML website  
-- Learned SQL & relational databases  
-- Started understanding networking  
+           ┌───────────────────────────────────────────────────────────────┐
+           │                     📘 2019 — Getting Started                 │
+           └───────────────────────────────────────────────────────────────┘
+                 Skills:  C · Java Basics · Linux CLI  
+                 Focus :  First programming experience
+
+                 Projects:
+                 → Small C programs
+                 → First Java console apps
+
+
+                                ▼
+
+
+           ┌───────────────────────────────────────────────────────────────┐
+           │                 🌐 2020 — Web & Databases                     │
+           └───────────────────────────────────────────────────────────────┘
+                 Skills:  PHP · HTML/CSS · MySQL  
+                 Focus :  Web development basics · SQL
+
+                 Projects:
+                 → First login system
+                 → PHP school website
+
+
+                                ▼
+
+
+           ┌───────────────────────────────────────────────────────────────┐                                    ┌───────────────────────────────┐
+           │             🚀 2021 — Real Programming                        │──────────────► Projects ►►►►►►►►►►│  School Grade Manager         │
+           └───────────────────────────────────────────────────────────────┘                                    │  JavaFX Tools                │
+                 Skills:  Java OOP · JavaFX UI · GitHub                                                         │  Utility Tools               │
+                 Focus :  School apps · UI development                                                          └───────────────────────────────┘
+
+
+                                ▼
+
+
+           ┌───────────────────────────────────────────────────────────────┐
+           │         🧰 2022 — Backend & Docker                           │
+           └───────────────────────────────────────────────────────────────┘
+                 Skills:  REST APIs · Docker · JWT Auth · NGINX  
+                 Focus :  Deployments · API structure
+
+                 Projects:
+                 → First REST API (PHP/Java)
+                 → Dockerized services
+                 → Private note system
+
+
+                                ▼
+
+
+           ┌───────────────────────────────────────────────────────────────┐                                    ┌────────────────────────────────────┐
+           │            🏠 2023 — Homelab Begins                           │────────────► Projects ►►►►►►►►►►►►│  First Homelab Server              │
+           └───────────────────────────────────────────────────────────────┘                                    │  Reverse Proxy Setup               │
+                 Skills:  Proxmox · OPNsense · VLANs · DNS · NPM                                                │  Monitoring Stack (early)          │
+                 Focus :  Virtualization & networking                                                           └────────────────────────────────────┘
+
+
+                                ▼
+
+
+           ┌───────────────────────────────────────────────────────────────┐
+           │         📡 2024 — Full Self-Hosting & Automation              │
+           └───────────────────────────────────────────────────────────────┘
+                 Skills:  Netdata · Uptime Kuma · n8n · Docker Compose  
+                 Focus :  Fully automated infrastructure
+
+                 Projects:
+                 → Full monitoring system
+                 → Automated backups
+                 → Multi-stack Docker hosting
+
+
+                                ▼
+
+
+           ┌───────────────────────────────────────────────────────────────┐                                     ┌────────────────────────────────────────────┐
+           │     🔧 2025 — API Development & Cluster Storage               │────────────► Projects ►►►►►►►►►►►► │  🗳 Wahlsystem (Spring Boot + Vue)          │
+           └───────────────────────────────────────────────────────────────┘                                     │  🧭 SSH Gateway Manager                    │
+                 Skills:  Spring Boot · JWT · Redis · CI/CD · Ceph Stack                                         │  📁 ModBrowser (Vue + Symfony)             │
+                 Focus :  Production-grade APIs & full-stack apps                                                │  ⚙️ YAML Config Editor                     │
+                                                                                                                 └────────────────────────────────────────────┘
+
+
+                                ▼
+
+
+           ┌───────────────────────────────────────────────────────────────┐
+           │                 🔮 2026 — Future Goals                         │
+           └───────────────────────────────────────────────────────────────┘
+                 ✔ More full-stack apps  
+                 ✔ Better homelab automation  
+                 ✔ More security & clustering  
+                 ✔ Bigger Ceph environment  
 
 ---
 
-## 2021 – Deep into Programming  
-- More advanced Java projects  
-- Created school-related applications  
-- Began using GitHub seriously  
-
----
-
-## 2022 – Systems & Backend  
-- Wrote my first bigger API  
-- Started using Docker  
-- Learned more about security basics  
-
----
-
-## 2023 – Homelab Start  
-- Built my first homelab server  
-- Installed Proxmox for the first time  
-- Started with reverse proxies and DNS setups  
-
----
-
-## 2024 – Full Self-Hosting  
-- Set up OPNsense firewall
-- Setting up multiple services:
-  Webserver, Reverse Proxy, Redundant DNS, ...
-- Acquired own domain
-- Built a 3-node cluster for learning  
-
----
-
-## 2025 – Cloud-Native & Pro Projects  
-- Built a full Spring Boot backend  
-- Working with Vue & TypeScript  
-- Created Redis-backed systems  
-- Working on cluster storage with Ceph  
-- Managing multiple Docker stacks with CI/CD  
-
----
-
-## 2026 – Future Plans  
-- Better homelab automation  
-- More advanced backend projects  
-- More networking and security experience  
-- Building full production-grade systems  
-
----
-
-> This file will grow over time – just like my skills.
+> This file grows as my journey continues — every year brings new projects, new technology and new ideas.
