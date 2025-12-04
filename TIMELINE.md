@@ -70,7 +70,7 @@ A combined visual timeline showing both my development progress and the real pro
            ┌───────────────────────────────────────────────────────────────┐
            │         📡 2024 — Full Self-Hosting & Automation              │
            └───────────────────────────────────────────────────────────────┘
-                 Skills:  Netdata · Uptime Kuma · n8n · Docker Compose  
+                 Skills:  Docker Compose and various Homelab services
                  Focus :  Fully automated infrastructure
 
                  Projects:
