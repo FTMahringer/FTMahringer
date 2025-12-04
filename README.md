@@ -62,9 +62,6 @@ I enjoy learning new technologies, creating useful tools and hosting my own serv
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netdata-15C39A?style=for-the-badge&logo=netdata&logoColor=white"/>
-<img src="https://img.shields.io/badge/Uptime_Kuma-2E3440?style=for-the-badge&logo=uptimekuma&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ceph-CC0000?style=for-the-badge&logo=ceph&logoColor=white"/>
 <img src="https://img.shields.io/badge/ZFS-2C3E50?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
