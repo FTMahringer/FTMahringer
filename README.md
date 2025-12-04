@@ -77,8 +77,8 @@
 ## 🎯 Goals for 2026  
 
 - [ ] Improve **Java & PHP** skills  
-- [ ] Learn Minecraft mod + plugin development  
-- [ ] Learn another programming language  
+- [ ] Create and use API's with Spring-Boot
+- [ ] Learn more about Vue-Frontend
 
 ---
 
