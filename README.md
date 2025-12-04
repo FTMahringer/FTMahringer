@@ -1,57 +1,82 @@
-### 🚀 Fynn Mahringer | Developer & Tech Enthusiast  
+### 🚀 Fynn Mahringer | Developer & Homelab Enthusiast  
 
-<div align="center">
+---
 
-💻 Student at **HTBLA-Steyr**  
-🧑‍💻 20 years old — coding for 6 years, self-hosting for 2 years  
-📌 Backend, Linux, DevOps & self-hosted infrastructure  
+## 👨‍💻 About Me  
+
+Hi, I'm **Fynn** — a developer from Austria who loves backend development, Linux and building my own homelab.  
+I enjoy learning new technologies, creating useful tools and hosting my own services at home.
+
+- 🎓 Student at **HTBLA-Steyr**  
+- 💻 Coding for 6+ years  
+- 🧡 Favorite fields: **Backend, Networking, Infrastructure**  
+- 🏗 Self-hosted environment with **Proxmox, OPNsense, Ceph, Docker and more**  
+- 🌱 Always learning something new  
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FTMahringer&style=for-the-badge&color=blue)
-
-</div>
 
 ---
 
 ## 🛠 Tech Stack  
 
-<div align="center">
+### 🌐 Languages  
+<p>
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg">
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg">
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/php-original.svg">
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg">
+</p>
 
-<table><tr>
-<td valign="top" width="33%">
+### ⚙️ Frameworks & Databases  
+<p>
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg">
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/mariadb.png">
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg">
+</p>
 
-<h3>🌐 Languages</h3>
-<div align="center">
-<a href="https://www.cprogramming.com/"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50"/></a>
-<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
-<a href="https://www.php.net/"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50"/></a>
-<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
-</div>
+### 🧰 Tools  
+<p>
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg">
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg">
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
+</p>
 
-</td>
-<td valign="top" width="33%">
+---
 
-<h3>⚙️ Frameworks & Databases</h3>
-<div align="center">
-<a href="https://symfony.com/"><img src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" height="50"/></a>
-<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>
-<a href="https://mariadb.org/"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50"/></a>
-</div>
+## 🧰 Additional Skills (Homelab Edition)
 
-</td>
-<td valign="top" width="33%">
+<details>
+<summary><strong>Click to expand</strong></summary>
+<br>
 
-<h3>🛠 Tools</h3>
-<div align="center">
-<a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a>
-<a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/></a>
-<a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/></a>
-<a href="https://redis.io/"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50"/></a>
-</div>
+<p align="left">
 
-</td>
-</tr></table>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPNsense-F58025?style=for-the-badge&logo=opnsense&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netdata-15C39A?style=for-the-badge&logo=netdata&logoColor=white"/>
+<img src="https://img.shields.io/badge/Uptime_Kuma-2E3440?style=for-the-badge&logo=uptimekuma&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ceph-CC0000?style=for-the-badge&logo=ceph&logoColor=white"/>
+<img src="https://img.shields.io/badge/ZFS-2C3E50?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-</div>
+</p>
+
+</details>
+
+---
+
+## 📅 Developer Timeline  
+➡️ **[See full timeline →](./TIMELINE.md)**
 
 ---
 
@@ -76,13 +101,15 @@
 
 ## 🎯 Goals for 2026  
 
-- [ ] Improve **Java & PHP** skills  
-- [ ] Create and use API's with Spring-Boot
-- [ ] Learn more about Vue-Frontend
+- [ ] Improve **Java & PHP**  
+- [ ] Build more APIs with Spring Boot  
+- [ ] Learn more about Vue Frontend Development  
+- [ ] Expand my Homelab cluster  
+- [ ] More automation with CI/CD  
 
 ---
 
 ## ⭐ Fun Fact  
 
-I enjoy self-hosting servers, building custom apps  
-and over-optimizing things until even I forget how they work 😄
+I enjoy building my own self-hosted systems and writing apps for them.  
+Sometimes I optimize things so much that later I forget how it even works 😄
