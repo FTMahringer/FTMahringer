@@ -31,6 +31,7 @@ I enjoy learning new technologies, creating useful tools and hosting my own serv
 ### ⚙️ Frameworks & Databases  
 <p>
   <img height="40" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg">
+  <img height="40" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg">
   <img height="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
   <img height="40" src="https://profilinator.rishav.dev/skills-assets/mariadb.png">
   <img height="40" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg">
