@@ -103,6 +103,7 @@ I enjoy learning new technologies, creating useful tools and hosting my own serv
 - [ ] Learn more about Vue Frontend Development  
 - [ ] Expand my Homelab cluster  
 - [ ] More automation with CI/CD  
+- [ ] Lean more about Drupal module programming
 
 ---
 
