@@ -13,8 +13,10 @@ I enjoy learning new technologies, creating useful tools and hosting my own serv
 - 🏗 Self-hosted environment with **Proxmox, OPNsense, Ceph, Docker and more**  
 - 🌱 Always learning something new  
 
+<a href="https://github.com/FTMahringer" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=FTMahringer&style=for-the-badge&color=blue" height="40">
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=FTMahringer&style=for-the-badge&color=blue)
 
 ---
 
@@ -71,12 +73,6 @@ I enjoy learning new technologies, creating useful tools and hosting my own serv
 </details>
 
 ---
-<!--
-## 📅 Developer Timeline  
-➡️ **[See full timeline →](./TIMELINE.md)**  
-
----
--->
 
 ## 📫 Connect with Me  
 
