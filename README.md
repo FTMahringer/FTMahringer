@@ -22,28 +22,29 @@ I enjoy learning new technologies, creating useful tools and hosting my own serv
 
 ### 🌐 Languages  
 <p>
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg">
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg">
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/php-original.svg">
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg">
+  <a href="https://www.java.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg"></a>
+  <a href="https://www.php.net/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"></a>
 </p>
 
 ### ⚙️ Frameworks & Databases  
 <p>
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg">
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg">
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/mariadb.png">
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg">
+  <a href="https://symfony.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg"></a>
+  <a href="https://vuejs.org/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"></a>
+  <a href="https://mariadb.org/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/mariadb.png"></a>
+  <a href="https://redis.io/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"></a>
 </p>
 
 ### 🧰 Tools  
 <p>
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg">
-  <img height="40" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg">
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
+  <a href="https://git-scm.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"></a>
+  <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"></a>
+  <a href="https://kernel.org/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"></a>
+  <a href="https://nginx.org/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg"></a>
 </p>
+
 
 ---
 
@@ -63,8 +64,6 @@ I enjoy learning new technologies, creating useful tools and hosting my own serv
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ceph-CC0000?style=for-the-badge&logo=ceph&logoColor=white"/>
-<img src="https://img.shields.io/badge/ZFS-2C3E50?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </p>
@@ -72,11 +71,12 @@ I enjoy learning new technologies, creating useful tools and hosting my own serv
 </details>
 
 ---
-
+<!--
 ## 📅 Developer Timeline  
 ➡️ **[See full timeline →](./TIMELINE.md)**  
 
 ---
+-->
 
 ## 📫 Connect with Me  
 
