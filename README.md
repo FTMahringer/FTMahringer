@@ -4,8 +4,7 @@
 
 ## 👨‍💻 About Me  
 
-Hi, I'm **Fynn** — a developer from Austria who loves backend development, Linux and building my own homelab.  
-I enjoy learning new technologies, creating useful tools and hosting my own services at home.
+Hi, I'm **Fynn** — a 20 year developer from Austria who loves backend development, Linux and building my own homelab.  
 
 - 🎓 Student at **HTBLA-Steyr**  
 - 💻 Coding for 6+ years  
