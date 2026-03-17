@@ -1,109 +1,51 @@
-### 🚀 Fynn Mahringer | Developer & Homelab Enthusiast  
+# 👋 Hi, I'm Fynn  
+
+> Backend developer from Austria, focused on building systems, infrastructure and stuff that actually runs.
 
 ---
 
-## 👨‍💻 About Me  
+## About Me  
 
-Hi, I'm **Fynn** — a 20 year developer from Austria who loves backend development, Linux and building my own homelab.  
+I'm currently a student at HTBLA Steyr (IT) and I've been coding for a few years now.  
+Most of my work is backend-focused — APIs, databases, server setups — basically everything that happens behind the UI.  
 
-- 🎓 Student at **HTBLA-Steyr**  
-- 💻 Coding for 6+ years  
-- 🧡 Favorite fields: **Backend, Networking, Infrastructure**  
-- 🏗 Self-hosted environment with **Proxmox, OPNsense, Ceph, Docker and more**  
-- 🌱 Always learning something new  
-
-<a href="https://github.com/FTMahringer" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=FTMahringer&style=for-the-badge&color=blue" height="40">
-</a>
-
+I also run my own homelab where I experiment with networking, virtualization and self-hosted services.  
+A lot of what I learn comes from just building things and breaking them again.
 
 ---
 
-## 🛠 Tech Stack  
+## Tech for various projects
 
-### 🌐 Languages  
-<p>
-  <a href="https://www.java.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg"></a>
-  <a href="https://www.php.net/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"></a>
-</p>
+**Languages**  
+Java · PHP · JavaScript  
 
-### ⚙️ Frameworks & Databases  
-<p>
-  <a href="https://symfony.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg"></a>
-  <a href="https://vuejs.org/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"></a>
-  <a href="https://mariadb.org/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/mariadb.png"></a>
-  <a href="https://redis.io/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"></a>
-</p>
+**Stack**  
+Symfony · Vue · Docker · Linux · Nginx  
 
-### 🧰 Tools  
-<p>
-  <a href="https://git-scm.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"></a>
-  <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"></a>
-  <a href="https://kernel.org/" target="_blank"><img height="40" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"></a>
-  <a href="https://nginx.org/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg"></a>
-</p>
-
+**Databases**  
+MySQL · MariaDB · Redis  
 
 ---
-
-## 🧰 Additional Skills (Homelab Edition)
 
 <details>
-<summary><strong>Click to expand</strong></summary>
-<br>
+<summary><strong>🧪 Homelab</strong></summary>
 
-<p align="left">
+- Proxmox cluster (VMs + containers)  
+- OPNsense as main router/firewall  
+- Docker + Portainer for services  
+- Ceph + NAS for storage  
+- Nginx Proxy Manager for routing
+- Getting into Kubernetes k3s clustering
 
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
-<img src="https://img.shields.io/badge/OPNsense-F58025?style=for-the-badge&logo=opnsense&logoColor=white"/>
-<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-</p>
+Mostly used for testing, hosting my own stuff and trying out new ideas.
 
 </details>
 
 ---
 
-## 📫 Connect with Me  
+## Fun Facts
+- I repeated two years cause i hate homework
+- I sometimes start an anime to stop me from coding
+- My Laptop has an alarm when i have an IDE open for 10 hours a day
+- Optimizing my code is fun (But sometimes i dont get it the next day)
 
-<div align="center">
-  <a href="https://github.com/FTMahringer">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/ftmahringer">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/fynn-mahringer-30a36b285">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/24865837">
-    <img src="https://img.shields.io/badge/Stackoverflow-F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-</div>
-
----
-
-## 🎯 Goals for 2026  
-
-- [ ] Improve **Java & PHP**  
-- [ ] Build more APIs with Spring Boot  
-- [ ] Learn more about Vue Frontend Development  
-- [ ] Expand my Homelab cluster  
-- [ ] More automation with CI/CD  
-- [ ] Lean more about Drupal module programming
-
----
-
-## ⭐ Fun Fact  
-
-I enjoy building my own self-hosted systems and writing apps for them.  
-Sometimes I optimize things so much that later I forget how it even works 😄
