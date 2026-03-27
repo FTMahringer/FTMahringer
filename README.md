@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fynn  
 
-> Backend developer from Austria, focused on building systems, infrastructure and stuff that actually runs.
+> Fullstack developer from Austria, focused on building systems, infrastructure and stuff that actually runs.
 
 ---
 
@@ -20,7 +20,7 @@ A lot of what I learn comes from just building things and breaking them again.
 Java · PHP · JavaScript  
 
 **Stack**  
-Symfony · Vue · Docker · Linux · Nginx  
+Symfony · Spring · Vue · Docker · Linux · Nginx  
 
 **Databases**  
 MySQL · MariaDB · Redis  
