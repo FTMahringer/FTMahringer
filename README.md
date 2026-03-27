@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fynn  
 
-> Fullstack developer from Austria, focused on building systems, infrastructure and stuff that actually runs.
+> Backend developer from Austria, focused on building systems, infrastructure and stuff that actually runs.
 
 ---
 
