@@ -44,7 +44,6 @@ Mostly used for testing, hosting my own stuff and trying out new ideas.
 ---
 
 ## Fun Facts
-- I repeated two years cause i hate homework
 - I sometimes start an anime to stop me from coding
 - My Laptop has an alarm when i have an IDE open for 10 hours a day
 - Optimizing my code is fun (But sometimes i dont get it the next day)
