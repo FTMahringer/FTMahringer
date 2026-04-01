@@ -3,9 +3,12 @@
 > Backend developer from Austria, focused on building systems, infrastructure and stuff that actually runs.
 
 ---
-What am I am currently doing:
 
-[FT-Nixos](https://github.com/FTMahringer/ft-nixos)
+## 🚧 Currently Working On
+
+- [Nixos](https://github.com/FTMahringer/ft-nixos) infrastructure & automation
+- Backend systems (Spring / Symfony)
+
 ---
 
 ## About Me  
@@ -52,3 +55,6 @@ Mostly used for testing, hosting my own stuff and trying out new ideas.
 - My Laptop has an alarm when i have an IDE open for 10 hours a day
 - Optimizing my code is fun (But sometimes i dont get it the next day)
 
+---
+
+> Focused on building reliable systems instead of just writing code.
