@@ -3,6 +3,10 @@
 > Backend developer from Austria, focused on building systems, infrastructure and stuff that actually runs.
 
 ---
+What am I am currently doing:
+
+[FT-Nixos](https://github.com/FTMahringer/ft-nixos)
+---
 
 ## About Me  
 
