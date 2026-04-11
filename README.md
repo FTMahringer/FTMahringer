@@ -6,7 +6,7 @@
 
 ## 🚧 Currently Working On
 
-- [Nixos](https://github.com/FTMahringer/ft-nixos) infrastructure & automation
+- [Nixos](https://github.com/FTMahringer/nixos-config) infrastructure & automation
 - Backend systems (Spring / Symfony)
 
 ---
