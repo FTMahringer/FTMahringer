@@ -53,7 +53,7 @@ Mostly used for testing, hosting my own stuff and trying out new ideas.
 ## Fun Facts
 - I sometimes start an anime to stop me from coding
 - My Laptop has an alarm when i have an IDE open for 10 hours a day
-- Optimizing my code is fun (But sometimes i dont get it the next day)
+- Optimizing my code is fun (But takes a long time for me to get it the next day)
 
 ---
 
