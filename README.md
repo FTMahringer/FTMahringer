@@ -6,8 +6,8 @@
 
 ## 🚧 Currently Working On
 
-- [Nixos](https://github.com/FTMahringer/nixos-config) infrastructure & automation
-- Backend systems (Spring / Symfony)
+- [Nixos](https://github.com/FTMahringer/nixos-config) - infrastructure & automation
+- [Synapse](https://github.com/FTMahringer/Synapse) - Custom AI-Orchestrator platofrm inspired by openclaw and hermes.
 
 ---
 
