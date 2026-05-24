@@ -7,7 +7,7 @@
 ## 🚧 Currently Working On
 
 - [Nixos](https://github.com/FTMahringer/nixos-config) - infrastructure & automation
-- [Synapse](https://github.com/FTMahringer/Synapse) - Custom AI-Orchestrator platofrm inspired by openclaw and hermes.
+- [Synapse](https://github.com/FTMahringer/Synapse) - Custom AI-Orchestrator Platform inspired by openclaw and hermes.
 
 ---
 
@@ -51,8 +51,7 @@ Mostly used for testing, hosting my own stuff and trying out new ideas.
 ---
 
 ## Fun Facts
-- I sometimes start an anime to stop me from coding
-- My Laptop has an alarm when i have an IDE open for 10 hours a day
+- I always heavily plan my projects, just for later, to not look at my plan, since its then all in my head.
 - Optimizing my code is fun (But takes a long time for me to get it the next day)
 
 ---
